@@ -8,3 +8,8 @@ Installation
 
     make install # Install for this user
     make clean   # Uninstall
+
+Todo
+----
+
+- Template fixed-size services to reduce duplication
